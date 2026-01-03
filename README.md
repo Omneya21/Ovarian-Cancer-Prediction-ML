@@ -49,9 +49,12 @@ These results highlight the model's potential for clinical use, with low false n
 
 ## Installation & Usage
 ```bash
-git clone https://github.com/yourusername/Ovarian-Cancer-Prediction-ML.git
+git clone https://github.com/Omneya21/Ovarian-Cancer-Prediction-ML.git
 cd Ovarian-Cancer-Prediction-ML
 pip install -r requirements.txt
 
 # Run the notebook
 jupyter notebook ovarian-cancer-prediction-ml.ipynb
+
+# Or run the script
+python cancer_ml_model.py
